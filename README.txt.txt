@@ -1,10 +1,3 @@
-# Scrabble
-A scrabble game
-
-* Open root directory in IntelliJ
-* Run 'Scrabble' run configuration
-
-# Description
 How to play the game:
 
 The game supports 2-7 players. You first add players using the add player button. When you type the player's name in
@@ -19,7 +12,7 @@ The price for an enchantment is 5 points. Click the Estore button again to close
 the Estore button are 3 other buttons (bankrupt, loseturns, takewords). The number next to these buttons corresponds
 to how many of each enchantment you have. if you click on one of those buttons while you have that enchantment, you will select
 that enchantment. Now, click on any tile on the board (that you are currently placing or that has been placed already)
-to set the enchantment. (Note: If you click an enchantment button on your panel, you HAVE to play that enchantment on
+to set the enchantment. (Note: if you click an enchantment button on your panel, you HAVE to play that enchantment on
 a tile, there's no going back!). Now that tile will show up pink on your screen and your screen only until it is activated,
 then it won't be pick to anyone anymore. (Note: you can play a word on that enchanted tile without activating the
 enchantment on yourself).
